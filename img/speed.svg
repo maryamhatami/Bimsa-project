@@ -1,0 +1,13 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="145.5" height="145.5" viewBox="0 0 145.5 145.5">
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Path_657" data-name="Path 657" d="M72.75,0A72.75,72.75,0,1,1,0,72.75,72.75,72.75,0,0,1,72.75,0Z" fill="#fff"/>
+    <g id="Layer_1-2" data-name="Layer 1-2" transform="translate(28.449 17.854)">
+      <path id="Path_658" data-name="Path 658" d="M51.191,11.6a42.382,42.382,0,1,1-.567,0Z" transform="translate(-8.525 9.257)" fill="#fff" stroke="#58595b" stroke-miterlimit="2.61" stroke-width="1.3"/>
+      <path id="Path_659" data-name="Path 659" d="M44.122,14.5A34.039,34.039,0,1,1,10.25,48.706v-.167A34.172,34.172,0,0,1,44.289,14.5Z" transform="translate(-4.493 16.035)" fill="#00b4ff" stroke="#00b4ff" stroke-miterlimit="2.61" stroke-width="1.3"/>
+      <path id="Path_660" data-name="Path 660" d="M43.311,15a31.169,31.169,0,1,1-.434,0Z" transform="translate(-0.579 17.204)" fill="#fff" stroke="#58595b" stroke-miterlimit="2.61" stroke-width="1.3"/>
+      <path id="Path_661" data-name="Path 661" d="M29.446,67.922a2,2,0,1,1-2,2A2.169,2.169,0,0,1,29.446,67.922ZM24.441,5.35H35.453a6.274,6.274,0,0,1,6.007,6.341h0A5.974,5.974,0,0,1,35.52,17.7H24.441A6.274,6.274,0,0,1,18.1,11.691h0A6.674,6.674,0,0,1,24.441,5.35Zm4,14.75h2v3.337H28.612V20.1Z" transform="translate(13.853 -5.35)" fill="none" stroke="#58595b" stroke-miterlimit="2.61" stroke-width="1.3"/>
+      <path id="Path_662" data-name="Path 662" d="M21.936,5.5H32.281a2.236,2.236,0,0,1,2.336,2.2h0a2.236,2.236,0,0,1-2.2,2.336H21.936a2.236,2.236,0,0,1-2.336-2.2h0A2.837,2.837,0,0,1,21.936,5.5Z" transform="translate(17.359 -5.001)" fill="#00b4ff" stroke="#00b4ff" stroke-miterlimit="2.61" stroke-width="1.3"/>
+      <path id="Path_663" data-name="Path 663" d="M25.171,34.249H39.854v-.667H25.171Zm-3-5.006V20.9H21.5v8.343Z" transform="translate(21.8 30.993)" fill="none" stroke="#58595b" stroke-miterlimit="2.61" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

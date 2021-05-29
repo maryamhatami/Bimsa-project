@@ -1,0 +1,12 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="145" height="145" viewBox="0 0 145 145">
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1-2">
+        <path id="Path_664" data-name="Path 664" d="M72.5,0A72.5,72.5,0,1,1,0,72.5,72.5,72.5,0,0,1,72.5,0Z" fill="#fff"/>
+        <path id="Path_665" data-name="Path 665" d="M38.415,19.7V67.257a11.307,11.307,0,0,1-22.615,0V62.269h4.323v4.989a6.984,6.984,0,0,0,13.968,0V19.7Z" transform="translate(36.746 45.816)" fill="#58595b" stroke="#58595b" stroke-miterlimit="2.61" stroke-width="0.3"/>
+        <path id="Path_666" data-name="Path 666" d="M54.467,7c26.273,0,47.557,22.615,47.557,50.55v2.661a15.83,15.83,0,0,0-30.929.333H70.43a16,16,0,0,0-15.3-12.305,15.7,15.7,0,0,0-15.3,12.305H39a15.93,15.93,0,0,0-30.929-.333V57.55C7.076,29.615,28.36,7,54.633,7Z" transform="translate(18.698 16.28)" fill="#fff" stroke="#58595b" stroke-miterlimit="2.61" stroke-width="1.3"/>
+        <path id="Path_667" data-name="Path 667" d="M22.5,7.6C35.138,18.907,38.131,47.841,36.8,53.494c-.333,1,1,.665,1.33-.665,2-6.651,16.3-11.972,25.275-3.991C64.736,50.169,57.752,14.584,22.5,7.6Z" transform="translate(52.328 17.675)" fill="#00b4ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
